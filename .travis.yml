@@ -7,4 +7,3 @@ before_install:
 
 script:
   - docker run thedurphy/docker-react npm run test -- --coverage
-# random comment
